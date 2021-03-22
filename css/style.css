@@ -12,6 +12,14 @@ body{
     font-family: 'Public Sans', sans-serif;
 }
 
+.login-signin{
+    padding: 15px 10%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid hsl(136, 65%, 51%);
+    align-items: center;
+}
+
 /* nav area */
 .nav-area{
     padding: 20px 0;
